@@ -1,0 +1,24 @@
+QA RESPONSIBILITY
+
+
+SDET RESPONSIBILITY
+
+
+DEVOPS RESPONSIBILITY
+
+
+DEVELOPER RESPONSIBILITY
+
+
+WHY WE ARE USING JENKINS
+
+cloud, part of pipeline, use our computer, 5 pm
+
+JENKINS STEPS
+
+1. created you test cases then you know how to run your test
+2. Jenkinsfile( you can create, sdet can create,devops can create
+
+CONTINUES INTEGRATION, CONTINUES DEPLOYMENT
+
+DEVELOPER WRITE THE CODE => GITHUB => CLONE GITHUB THEN WRITE TEST CASES => RUN TEST =>DEPLOY THE APP
