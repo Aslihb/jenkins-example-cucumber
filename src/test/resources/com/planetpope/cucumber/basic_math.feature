@@ -6,3 +6,5 @@ Feature: basic math
     And y=2
     When x and y are added
     Then the value should be 5
+
+
